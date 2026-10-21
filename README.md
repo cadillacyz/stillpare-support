@@ -1,6 +1,6 @@
 # Stillpare support
 
-Public support, privacy and subscription information only. No application source, credentials or customer data belong in this repository.
+Public support, privacy and purchase information only. No application source, credentials or customer data belong in this repository.
 
 Support: jiojioxiaoxiao@gmail.com
 
